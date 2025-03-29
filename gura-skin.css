@@ -1,0 +1,43 @@
+.css-1li7dvq {
+    background-image: url('https://p.upyun.com/demo/tmp/RcUWWrIQ.webp') !important;
+    /* background-color: red ; */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.css-1unmb9x{
+    background-color: rgba(255, 255, 255, 0) !important;
+}
+html {
+    --background-color: #f0f0f000 !important;
+}
+
+.MuiBox-root {
+    background-color: rgba(255, 255, 255, 0) !important;
+    backdrop-filter: blur(7px);
+}
+.base-content{
+    
+    background-color: rgba(255, 255, 255, 0) !important;
+    backdrop-filter: blur(7px);
+}
+.MuiGrid2-root{
+    background-color: rgba(255, 255, 255, 0) !important;
+    /* backdrop-filter: blur(7px); */
+}
+
+.MuiStack-root{
+    background-color: rgba(255, 255, 255, 0) !important;
+}
+.base-container {
+    background-color: rgba(255, 255, 255, 0) !important;
+}
+.layout__right .MuiListItemButton-root{
+    background-color: rgba(255, 255, 255, 0) !important;
+    backdrop-filter: none;
+    
+}
+.MuiTypography-root {
+    background-color: rgba(255, 255, 255, 0) !important;
+}
+
