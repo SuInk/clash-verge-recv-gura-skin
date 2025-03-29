@@ -1,6 +1,7 @@
 # clash-verge-rev-gura-skin 
 
-![截图](https://cdn.suink.cn/imgs/clash-verge-recv-gura.png)
+![截图](./screenshots/index.png)  
+![截图](./screenshots/setting.png)
 
 # Thanks
 * [Miku-Skin-ClashVerge](https://github.com/Duke486/Miku-Skin-ClashVerge)
