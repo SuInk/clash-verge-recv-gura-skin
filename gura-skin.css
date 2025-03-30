@@ -1,13 +1,44 @@
 .css-1li7dvq {
     background-image: url('https://p.upyun.com/demo/tmp/RcUWWrIQ.webp') !important;
-    /* background-color: red ; */
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
-.css-1unmb9x{
+
+.css-1unmb9x {
     background-color: rgba(255, 255, 255, 0) !important;
 }
+
+.css-1woqkq7 {
+    background-color: rgba(255, 255, 255, 0) !important;
+    border: 1px solid rgba(0, 122, 255, 0.25) !important;
+    backdrop-filter: blur(7px);
+}
+
+.css-buo882 {
+    background-color: rgba(255, 255, 255, 0) !important;
+    border: 1px solid rgba(0, 122, 255, 0.25) !important;
+    backdrop-filter: blur(7px);
+}
+
+/* 测试界面 */
+.css-8sla8j {
+    background-color: rgba(255, 255, 255, 0) !important;
+}
+
+.css-ya2z3b {
+    background-color: rgba(255, 255, 255, 0) !important;
+}
+
+.css-n8e8d {
+    background-color: rgba(255, 255, 255, 0) !important;
+}
+
+/* 标题栏 */
+.css-1hy81ip {
+    --DataGrid-containerBackground: #f0f0f000 !important;
+}
+
 html {
     --background-color: #f0f0f000 !important;
 }
@@ -16,28 +47,36 @@ html {
     background-color: rgba(255, 255, 255, 0) !important;
     backdrop-filter: blur(7px);
 }
-.base-content{
-    
+
+.base-content {
+
     background-color: rgba(255, 255, 255, 0) !important;
     backdrop-filter: blur(7px);
 }
-.MuiGrid2-root{
+
+.MuiGrid2-root {
     background-color: rgba(255, 255, 255, 0) !important;
-    /* backdrop-filter: blur(7px); */
 }
 
-.MuiStack-root{
+.MuiStack-root {
     background-color: rgba(255, 255, 255, 0) !important;
 }
+
 .base-container {
     background-color: rgba(255, 255, 255, 0) !important;
 }
-.layout__right .MuiListItemButton-root{
+
+.layout__right .MuiListItemButton-root {
     background-color: rgba(255, 255, 255, 0) !important;
     backdrop-filter: none;
-    
+
 }
-.MuiTypography-root {
+
+/* 输入框 */
+.MuiInputBase-root {
     background-color: rgba(255, 255, 255, 0) !important;
 }
 
+.MuiTypography-root {
+    background-color: rgba(255, 255, 255, 0) !important;
+}
